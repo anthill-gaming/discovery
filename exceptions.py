@@ -1,0 +1,2 @@
+class DiscoveryError(Exception):
+    pass
