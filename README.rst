@@ -1,3 +1,4 @@
 Discovery
 =============================================
-Map each service location dynamically
+Map each service location dynamically.
+Currently under heavy development.
